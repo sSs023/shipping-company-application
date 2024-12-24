@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/Footer.jsx", "src/components/Navbar.jsx", "src/components/ShipmentForm.jsx", "src/components/StatusCard.jsx", "src/hooks/useFormHandler.jsx", "src/hooks/useTracking.jsx", "src/app/tracking/page.jsx", "src/app/booking/page.jsx", "src/app/layout.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/Footer.tsx", "src/components/Navbar.tsx", "src/components/ShipmentForm.tsx", "src/components/StatusCard.tsx", "src/hooks/useFormHandler.tsx", "src/hooks/useTracking.tsx", "src/app/tracking/page.tsx", "src/app/booking/page.tsx", "src/app/layout.tsx"],
   "exclude": ["node_modules"]
 }

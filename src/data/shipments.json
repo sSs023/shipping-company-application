@@ -1,28 +1,10 @@
 [
   {
     "id": 1,
-    "sender": "asbdas",
-    "receiver": "dabsdbas",
-    "weight": "dbasdba",
-    "dimensions": "sdbasd",
-    "status": "Pending",
-    "location": "Warehouse"
-  },
-  {
-    "id": 2,
-    "sender": "qwqe",
-    "receiver": "sd",
-    "weight": "eq",
-    "dimensions": "ewq",
-    "status": "Pending",
-    "location": "Warehouse"
-  },
-  {
-    "id": 3,
-    "sender": "qwqe",
-    "receiver": "sd",
-    "weight": "eq",
-    "dimensions": "ewq",
+    "sender": "asdbasd",
+    "receiver": "basdbasbd",
+    "weight": "asdbasdb",
+    "dimensions": "asdbasd",
     "status": "Pending",
     "location": "Warehouse"
   }
